@@ -1,0 +1,10 @@
+{
+  "name": "fundamentals-nodejs",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "node --watch --no-warnings src/server.js"
+  },
+  "license": "MIT"
+}

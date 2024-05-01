@@ -1,3 +1,3 @@
-import { config } from "./src/shared/database/knex";
+import { config } from "./src/database/knex";
 
 export default config;

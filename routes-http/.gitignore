@@ -1,4 +1,4 @@
 node_modules
 .env
-src/shared/database/db/app.db
-src/shared/database/migrations
+src/database/db/app.db
+src/database/migrations
